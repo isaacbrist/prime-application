@@ -1,0 +1,45 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .background{
+    background-color: #ADD8E645;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+  }
+  
+  header{
+    margin: 30px;
+    text-align: center;
+    border: 2px outset #9DAF1D;
+    border-radius: 10px;
+  }
+  
+  h5{
+    margin-bottom: -5px
+  }
+  
+  h3{
+    font-size: 20px;
+    text-decoration: underline;
+  }
+
+  .other-experience{
+      display: flex;
+      align-items: center;
+  }
+
+  .toddlers{
+      max-width: 300px;
+      max-height: 300px;
+      border: solid black 1px;
+  }
+
+  footer{
+    background-image: url("https://media.istockphoto.com/photos/set-of-red-and-transparent-rpg-dice-picture-id971961300?k=20&m=971961300&s=612x612&w=0&h=hnnO6Poiz8ShSaugtBLPdBdgXZpuRhkZwnKmsHdWTv0=");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 150px;
+    width: 100%;
+  }
